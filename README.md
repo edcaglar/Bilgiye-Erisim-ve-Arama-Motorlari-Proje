@@ -1,3 +1,5 @@
+YTU BLM3120 Bilgiye Erisim ve Arama Motorlari Dersi Projesi 
+
 Gerekli Kütüphaneler:
 numpy
 pandas
